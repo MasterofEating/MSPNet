@@ -11,6 +11,7 @@
 <br>
 
 ##Operating Instructions
+<br>
 Challenge the hyperparameters in the main.py file, and then run the file
 <br>
 On the four datasets we used, simply tweaking the following hyperparameters yielded the results recorded in our experiments.
